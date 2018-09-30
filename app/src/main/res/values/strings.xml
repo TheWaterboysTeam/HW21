@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW2-1</string>
+    <string-array name="empids">
+        <item>ABC123</item>
+        <item>XYZ456</item>
+        <item>123ABC</item>
+        <item>456XYZ</item>
+    </string-array>
+    <string empID="employeeID">IDNum</string>
+    <string empName="name">EmployeeName</string>
+
+</resources>
